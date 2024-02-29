@@ -1,0 +1,24 @@
+{
+  "name": "@shawncvv/eventBus",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "dom",
+    "extension"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tea-Protocol/eventBus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tea-Protocol/eventBus/issues"
+  },
+  "homepage": "https://github.com/Tea-Protocol/eventBus#readme",
+  "devDependencies": {}
+}
